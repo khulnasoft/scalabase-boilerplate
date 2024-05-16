@@ -1,0 +1,10 @@
+{
+  "name": "@scalabase/plugin-boilerplate",
+  "version": "0.9.4-alpha.2",
+  "main": "lib/server/index.js",
+  "peerDependencies": {
+    "@scalabase/client": "0.x",
+    "@scalabase/server": "0.x",
+    "@scalabase/test": "0.x"
+  }
+}
